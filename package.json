@@ -1,0 +1,11 @@
+{
+  "name": "hetube",
+  "version": "1.0.0",
+  "description": "Cloning youtube Study",
+  "main": "index.js",
+  "author": "fancypicture",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
